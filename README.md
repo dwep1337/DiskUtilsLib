@@ -11,7 +11,7 @@ DiskUtilsLib is a C++ library for retrieving disk properties on Windows systems,
 ## How to Download
 
 1. **Clone the Repository**:
- https://github.com/NoException-exe/DiskUtilsLib.git
+ https://github.com/dwep1337/DiskUtilsLib.git
 
 2. **Include the Header**
 
