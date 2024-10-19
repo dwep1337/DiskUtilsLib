@@ -10,7 +10,7 @@
     DiskUtilsLib - A C++ library for retrieving disk properties.
 
     Author: NoException-exe
-    GitHub: https://github.com/NoException-exe
+    GitHub: https://github.com/dwep1337
     License: MIT License (see LICENSE file)
 
     Description:
