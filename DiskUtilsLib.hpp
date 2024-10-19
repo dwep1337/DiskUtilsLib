@@ -9,7 +9,7 @@
 /*
     DiskUtilsLib - A C++ library for retrieving disk properties.
 
-    Author: NoException-exe
+    Author: dwep1337
     GitHub: https://github.com/dwep1337
     License: MIT License (see LICENSE file)
 
