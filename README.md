@@ -1,6 +1,6 @@
 # DiskUtilsLib
 
-DiskUtilsLib is a C++ library for retrieving disk properties on Windows systems, including serial number, model, and size.
+DiskUtilsLib is a C++ mini library for retrieving disk properties on Windows systems, including serial number, model, and size.
 
 ## Features
 
